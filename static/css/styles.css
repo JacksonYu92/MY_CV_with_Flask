@@ -1,0 +1,66 @@
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+
+h1 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 28%;
+  padding: 20px 0;
+}
+
+img {
+  width: 200px;
+}
+
+html, body {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+}
+
+.github {
+  margin-left: 0;
+}
+
+.githubimg {
+  width: 20px;
+}
+
+.linkedinimg {
+  width: 20px;
+}
+
+.youtubeimg {
+  width: 25px;
+}
+
+.subtitle {
+    color: #66BFBF;
+    text-align: center;
+    padding: 20px, 0;
+}
+
+.workdate {
+  text-align: right;
+}
